@@ -2,7 +2,7 @@ body {
     margin: 0;
 }
 a {
-    color: black;
+    color: powderblue;
     text-decoration: none;
 }
 h1 {
@@ -38,3 +38,4 @@ ol {
     h1 {
         border-bottom: none;
     }
+}
